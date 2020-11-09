@@ -1,4 +1,4 @@
-#UpDownGame for iOS
+# UpDownGame for iOS
 
 이 앱은 야곰닷넷의 '왕초보를 위한 iOS 앱개발' 강좌를 수강하면서 만든 앱입니다.
 
